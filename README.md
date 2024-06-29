@@ -1,4 +1,7 @@
-# Hi there, I'm Phillip 👋
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wangu+Phillip!;" />
+</h1>
 I am a passionate software developer with expertise in building and maintaining software,<br/> mobile applications, web applications, and more. With a strong background in various<br/> programming languages and frameworks, I am dedicated to creating efficient and scalable solutions.
 
 # 💻 Tech Stack
